@@ -29,5 +29,7 @@ namespace decision_statements
 
             Console.Read();
         }
+
+        static void checkRegistered
     }
 }
